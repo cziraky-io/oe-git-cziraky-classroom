@@ -1,9 +1,9 @@
 # Az én ZH kérdéseim
 
 1. Mi a git?
-2. Három ondatban magyarázd meg, hogy mi a DevOps, a DevSecOps és a DevOps Engineer.
+2. Három mondatban magyarázd meg, hogy mi a DevOps, a DevSecOps és a DevOps Engineer.
 3. Mi a különbség a colne és a fork között?
-4. Nevezz meg három branching-startégiát.
+4. Nevezz meg leaglább kettő branching-startégiát.
 5. Miért van szükség verzókezelésre?
 6. Mi a GitOps?
 7. Milyen git paranccsal tudunk két tetszőleges artifakton (pl. fájl) összehasonlítást végezni?
